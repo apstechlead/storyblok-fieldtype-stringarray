@@ -3,7 +3,8 @@
 A Storyblok Field-Type Plugin for creating a string array.
 
 Screenshot:
-![preview screenshot](https://github.com/apstechlead/storyblok-fieldtype-stringarray/blob/master/media/preview-01.png?raw=true)
+
+![preview screenshot](https://raw.githubusercontent.com/apstechlead/storyblok-fieldtype-stringarray/main/media/preview-01.png)
 
 ## Project setup
 ```
